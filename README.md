@@ -8,9 +8,9 @@ Project ini merupakan sistem Digital Twin sederhana untuk memantau kondisi taman
 - Status penyiraman tanaman
 
 ## Anggota
-- Ilma
-- Syauqan
-- Rifa
+- Ilma zakiyah
+- M Syauqan Athaya
+- Rati Rifa
 
 ## Sprint
 Sprint 1 - 30 September 2026
